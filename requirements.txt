@@ -1,0 +1,6 @@
+# requirements.txt
+numpy
+pandas
+scikit-learn
+matplotlib
+joblib  # For saving the model
